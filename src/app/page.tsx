@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarStyleMinimal from "@/components/navbar/NavbarStyleMinimal";
@@ -141,8 +141,7 @@ export default function Home() {
               company: "Fortune 500 Company",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Sarah Johnson portrait",
-              text: "Grandview Hotel exceeded all expectations. The attention to detail and exceptional service made our corporate retreat truly memorable."
+              imageAlt: "Sarah Johnson portrait"
             },
             {
               id: "2",
@@ -151,8 +150,7 @@ export default function Home() {
               company: "Luxury Travel Magazine",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/5716037/pexels-photo-5716037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Michael Chen portrait",
-              text: "As someone who reviews luxury hotels worldwide, Grandview Hotel stands out for its impeccable service and stunning accommodations."
+              imageAlt: "Michael Chen portrait"
             },
             {
               id: "3",
@@ -161,8 +159,7 @@ export default function Home() {
               company: "Elite Events",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Emma Rodriguez portrait",
-              text: "The perfect venue for our most discerning clients. The elegant spaces and professional staff ensure every event is flawless."
+              imageAlt: "Emma Rodriguez portrait"
             },
             {
               id: "4",
@@ -171,8 +168,7 @@ export default function Home() {
               company: "Tech Innovations",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3782181/pexels-photo-3782181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "David Kim portrait",
-              text: "Outstanding hospitality and world-class amenities. Grandview Hotel has become our go-to choice for executive stays."
+              imageAlt: "David Kim portrait"
             }
           ]}
         />
